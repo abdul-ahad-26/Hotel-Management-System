@@ -1,7 +1,7 @@
 # Hotel-Management-System
 This application is management system is ideal for a Hotel based on .NET Framework and C# Winforms using Guna UI framework Connected with SQL Server.
 <hr>
-# Usage
+<h1>Usage</h1>
 You have to create your own database using the query file given in the project file named SQLQUERY1 and after that you have to connect that database with the application. You would have to create a tabel for room, customer and employee.
 <hr>
 
