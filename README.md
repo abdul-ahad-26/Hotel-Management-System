@@ -13,6 +13,7 @@ You have to create your own database using the query file given in the project f
 
 
 ![Screenshot 2024-07-04 121929](https://github.com/abdul-ahad-26/Hotel-Management-System/assets/165171056/26c4caa9-5916-43dc-ae67-6048da7fb881)
+![image](https://github.com/abdul-ahad-26/Hotel-Management-System/assets/165171056/23c26033-905c-4ac8-b9bd-bed73cb72ac1)
 
 
 
