@@ -10,6 +10,7 @@ You have to create your own database using the query file given in the project f
 ![Screenshot 2024-07-04 121839](https://github.com/abdul-ahad-26/Hotel-Management-System/assets/165171056/9426d184-f8f9-4d29-a033-0e7c2003dd5f)
 ![image](https://github.com/abdul-ahad-26/Hotel-Management-System/assets/165171056/9eb98114-a744-4d2c-afd2-e9ce9d481f4c)
 ![image](https://github.com/abdul-ahad-26/Hotel-Management-System/assets/165171056/fc934b05-81af-43e0-a2fd-899ffec42677)
+![image](https://github.com/abdul-ahad-26/Hotel-Management-System/assets/165171056/f585b14e-69f9-444f-b496-70ee8ae4791a)
 
 
 ![Screenshot 2024-07-04 121929](https://github.com/abdul-ahad-26/Hotel-Management-System/assets/165171056/26c4caa9-5916-43dc-ae67-6048da7fb881)
