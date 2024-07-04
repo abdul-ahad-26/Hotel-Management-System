@@ -1,5 +1,5 @@
 # Hotel-Management-System
-This application is management system for an ideal Automobile Showroom based on .NET Framework and C# Winforms Connected with SQL Server.
+This application is management system is ideal for a Hotel based on .NET Framework and C# Winforms using Guna UI framework Connected with SQL Server.
 <hr>
 
 ![Screenshot 2024-07-04 121955](https://github.com/abdul-ahad-26/Hotel-Management-System/assets/165171056/569fb7f2-9f2d-40c9-9675-34b0d9f2a254)
